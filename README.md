@@ -12,6 +12,7 @@ editor.emmet.action.wrapWithAbbreviation | ctrl+shift+a
 workbench.action.closeOtherEditors | ctrl+shift+/
 workbench.action.files.saveAll | ctrl+shift+s
 workbench.action.focusFirstEditorGroup | ctrl+,
+workbench.action.tasks.runTask | f1
 workbench.action.terminal.focus | ctrl+.
 workbench.action.terminal.toggleTerminal | ctrl+'
 workbench.action.terminal.focusNext | ctrl+;

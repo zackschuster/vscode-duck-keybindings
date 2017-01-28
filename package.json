@@ -81,6 +81,10 @@
             {
                 "key": "shift+f5",
                 "command": "workbench.action.reloadWindow"
+            },
+            {
+                "key": "f1",
+                "command": "workbench.action.tasks.runTask"
             }
         ]
     },
