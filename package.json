@@ -83,7 +83,7 @@
         "command": "workbench.action.reloadWindow"
       },
       {
-        "key": "f1",
+        "key": "f4",
         "command": "workbench.action.tasks.runTask"
       }
     ]
