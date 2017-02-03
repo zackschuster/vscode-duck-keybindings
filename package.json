@@ -30,6 +30,11 @@
         "when": "editorTextFocus"
       },
       {
+        "key": "ctrl+space",
+        "command": "editor.action.quickFix",
+        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+      },
+      {
         "key": "ctrl+shift+a",
         "command": "editor.emmet.action.wrapWithAbbreviation"
       },
@@ -46,17 +51,20 @@
         "command": "workbench.action.focusFirstEditorGroup"
       },
       {
+        "key": "shift+f5",
+        "command": "workbench.action.reloadWindow"
+      },
+      {
+        "key": "ctrl+shift+i",
+        "command": "workbench.action.showErrorsWarnings"
+      },
+      {
+        "key": "f4",
+        "command": "workbench.action.tasks.runTask"
+      },
+      {
         "key": "ctrl+.",
         "command": "workbench.action.terminal.focus"
-      },
-      {
-        "key": "ctrl+space",
-        "command": "editor.action.quickFix",
-        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
-      },
-      {
-        "key": "ctrl+'",
-        "command": "workbench.action.terminal.toggleTerminal"
       },
       {
         "key": "ctrl+;",
@@ -67,24 +75,16 @@
         "command": "workbench.action.terminal.focusPrevious"
       },
       {
-        "key": "ctrl+shift+'",
-        "command": "workbench.action.terminal.new"
-      },
-      {
-        "key": "-ctrl+shift+`",
-        "command": "workbench.action.terminal.new"
-      },
-      {
         "key": "ctrl+shift+/",
         "command": "workbench.action.terminal.kill"
       },
       {
-        "key": "shift+f5",
-        "command": "workbench.action.reloadWindow"
+        "key": "ctrl+shift+'",
+        "command": "workbench.action.terminal.new"
       },
       {
-        "key": "f4",
-        "command": "workbench.action.tasks.runTask"
+        "key": "ctrl+'",
+        "command": "workbench.action.terminal.toggleTerminal"
       }
     ]
   },

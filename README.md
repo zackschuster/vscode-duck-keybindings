@@ -12,14 +12,15 @@ editor.emmet.action.wrapWithAbbreviation | ctrl+shift+a
 workbench.action.closeOtherEditors | ctrl+shift+/
 workbench.action.files.saveAll | ctrl+shift+s
 workbench.action.focusFirstEditorGroup | ctrl+,
+workbench.action.reloadWindow | shift+f5
+workbench.action.showErrorsWarnings | ctrl+shift+i
 workbench.action.tasks.runTask | f4
 workbench.action.terminal.focus | ctrl+.
-workbench.action.terminal.toggleTerminal | ctrl+'
 workbench.action.terminal.focusNext | ctrl+;
 workbench.action.terminal.focusPrevious | ctrl+shift+;
-workbench.action.terminal.new | ctrl+shift+'
 workbench.action.terminal.kill | ctrl+shift+/
-workbench.action.reloadWindow | shift+f5
+workbench.action.terminal.new | ctrl+shift+'
+workbench.action.terminal.toggleTerminal | ctrl+'
 
 ## License
 [MIT](license.txt)
