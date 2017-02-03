@@ -13,7 +13,7 @@
   "keywords": [
     "keymap"
   ],
-  "preview": true,
+  "preview": false,
   "icon": "duck.svg",
   "repository": {
     "type": "git",
