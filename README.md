@@ -20,6 +20,7 @@ workbench.action.terminal.focusPrevious | ctrl+shift+;
 workbench.action.terminal.kill | ctrl+shift+/
 workbench.action.terminal.new | ctrl+shift+'
 workbench.action.terminal.toggleTerminal | ctrl+'
+workbench.files.action.collapseExplorerFolders | ctrl+alt+c
 
 ## License
 [MIT](license.txt)

@@ -81,6 +81,11 @@
       {
         "key": "ctrl+'",
         "command": "workbench.action.terminal.toggleTerminal"
+
+      },
+			{
+				"key": "ctrl+alt+c",
+				"command": "workbench.files.action.collapseExplorerFolders"
 			}
     ]
   }
