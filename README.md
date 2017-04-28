@@ -9,7 +9,6 @@ Command | Keymap | When
 editor.action.format | ctrl+k ctrl+f | editorTextFocus
 editor.action.quickFix | ctrl+space | editorHasCodeActionsProvider && editorTextFocus && !editorReadonly
 editor.emmet.action.wrapWithAbbreviation | ctrl+shift+a
-workbench.action.closeOtherEditors | ctrl+shift+/
 workbench.action.files.saveAll | ctrl+shift+s
 workbench.action.focusFirstEditorGroup | ctrl+,
 workbench.action.reloadWindow | shift+f5

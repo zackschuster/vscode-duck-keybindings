@@ -39,10 +39,6 @@
         "command": "editor.emmet.action.wrapWithAbbreviation"
       },
       {
-        "key": "ctrl+shift+/",
-        "command": "workbench.action.closeOtherEditors"
-      },
-      {
         "key": "ctrl+shift+s",
         "command": "workbench.action.files.saveAll"
       },
@@ -85,7 +81,7 @@
       {
         "key": "ctrl+'",
         "command": "workbench.action.terminal.toggleTerminal"
-      }
+			}
     ]
   }
 }
