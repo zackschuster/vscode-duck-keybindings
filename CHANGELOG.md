@@ -1,5 +1,8 @@
 ## Releases
 
+### 1.1.1
+- remove conflict with workbench.action.debug.stop [1ccdbcb](https://github.com/zackschuster/vscode-duck-keybindings/commit/1ccdbcbf1fa0a55c2ab515207522053c6c9eb681)
+
 ### 1.1.0
 - update license to GPL [4669357](https://github.com/zackschuster/vscode-duck-keybindings/commit/4669357ca9ab65c04e09d785f2746de1cf031c80)
 - add collapseExplorerFolders keybinding [b0362f1](https://github.com/zackschuster/vscode-duck-keybindings/commit/b0362f16198d7168f3dccf23eaae8b7a345c1817)
