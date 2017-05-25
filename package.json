@@ -48,7 +48,8 @@
       },
       {
         "key": "shift+f5",
-        "command": "workbench.action.reloadWindow"
+        "command": "workbench.action.reloadWindow",
+				"when": "!inDebugMode"
       },
       {
         "key": "ctrl+shift+i",

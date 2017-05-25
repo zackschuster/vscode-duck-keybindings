@@ -11,7 +11,7 @@ editor.action.quickFix | ctrl+space | editorHasCodeActionsProvider && editorText
 editor.emmet.action.wrapWithAbbreviation | ctrl+shift+a
 workbench.action.files.saveAll | ctrl+shift+s
 workbench.action.focusFirstEditorGroup | ctrl+,
-workbench.action.reloadWindow | shift+f5
+workbench.action.reloadWindow | shift+f5 | !inDebugMode
 workbench.action.showErrorsWarnings | ctrl+shift+i
 workbench.action.tasks.runTask | f4
 workbench.action.terminal.focus | ctrl+.
