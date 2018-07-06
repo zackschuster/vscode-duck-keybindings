@@ -25,21 +25,11 @@
   "contributes": {
     "keybindings": [
       {
-        "key": "ctrl+k ctrl+f",
-        "command": "editor.action.format",
-        "when": "editorTextFocus"
-      },
-      {
-        "key": "ctrl+space",
-        "command": "editor.action.quickFix",
-        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
-      },
-      {
         "key": "ctrl+shift+a",
         "command": "editor.emmet.action.wrapWithAbbreviation"
       },
       {
-        "key": "ctrl+shift+s",
+				"key": "ctrl+shift+s",
         "command": "workbench.action.files.saveAll"
       },
       {
@@ -50,10 +40,6 @@
         "key": "shift+f5",
         "command": "workbench.action.reloadWindow",
         "when": "!inDebugMode"
-      },
-      {
-        "key": "ctrl+shift+i",
-        "command": "workbench.action.showErrorsWarnings"
       },
       {
         "key": "f4",
@@ -82,10 +68,6 @@
       {
         "key": "ctrl+'",
         "command": "workbench.action.terminal.toggleTerminal"
-      },
-      {
-        "key": "ctrl+alt+c",
-        "command": "workbench.files.action.collapseExplorerFolders"
       }
     ]
   }
