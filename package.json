@@ -14,7 +14,7 @@
     "keymap"
   ],
   "preview": false,
-  "icon": "duck.svg",
+  "icon": "duck.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/zackschuster/vscode-duck-keybindings.git"
