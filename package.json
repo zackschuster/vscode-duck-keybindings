@@ -30,6 +30,7 @@
       },
       {
 				"key": "ctrl+shift+s",
+				"mac": "cmd+shift+s",
         "command": "workbench.action.files.saveAll"
       },
       {
