@@ -2,7 +2,7 @@
   "name": "duck-keybindings",
   "displayName": "Duck Keymaps",
   "description": "Some custom keymaps for VS Code. Quack.",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "publisher": "zackschuster",
   "engines": {
     "vscode": "^1.3.0"
