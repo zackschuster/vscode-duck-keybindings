@@ -26,6 +26,7 @@
     "keybindings": [
       {
         "key": "ctrl+shift+a",
+				"mac": "cmd+shift+a",
         "command": "editor.emmet.action.wrapWithAbbreviation"
       },
       {
@@ -34,7 +35,8 @@
         "command": "workbench.action.files.saveAll"
       },
       {
-        "key": "ctrl+,",
+				"key": "ctrl+,",
+				"mac": "cmd+,",
         "command": "workbench.action.focusFirstEditorGroup"
       },
       {
@@ -48,26 +50,32 @@
       },
       {
         "key": "ctrl+.",
+        "mac": "cmd+.",
         "command": "workbench.action.terminal.focus"
       },
       {
-        "key": "ctrl+;",
+				"key": "ctrl+;",
+				"mac": "cmd+;",
         "command": "workbench.action.terminal.focusNext"
       },
       {
-        "key": "ctrl+shift+;",
+				"key": "ctrl+shift+;",
+				"mac": "cmd+shift+;",
         "command": "workbench.action.terminal.focusPrevious"
       },
       {
         "key": "ctrl+shift+/",
+				"mac": "cmd+shift+/",
         "command": "workbench.action.terminal.kill"
       },
       {
         "key": "ctrl+shift+'",
+				"mac": "cmd+shift+'",
         "command": "workbench.action.terminal.new"
       },
       {
         "key": "ctrl+'",
+        "mac": "cmd+'",
         "command": "workbench.action.terminal.toggleTerminal"
       }
     ]
