@@ -1,5 +1,8 @@
 ## Releases
 
+### 2.0.0
+- make keybindings mac-compliant [372a9c4](https://github.com/zackschuster/vscode-duck-keybindings/commit/372a9c47fce8891a8ee2bca395e8dc7a855191fe)
+
 ### 1.1.1
 - remove conflict with workbench.action.debug.stop [1ccdbcb](https://github.com/zackschuster/vscode-duck-keybindings/commit/1ccdbcbf1fa0a55c2ab515207522053c6c9eb681)
 
